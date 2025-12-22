@@ -1,23 +1,31 @@
-# quantitative-methods-coursework
-Collection of coursework, assignments, and projects completed during my university studies, including mathematics, statistics, and programming.
+# Quantitative Methods Coursework
 
-# College Coursework Portfolio
+This repository contains coursework, laboratory exercises, and applied projects completed as part of my university studies in **quantitative and computational finance**, with a particular focus on the module **Advanced Computational Finance**.
 
-This repository contains a selection of coursework, assignments, and projects completed during my university studies.
+The material emphasises numerical methods, simulation techniques, and computational approaches used in modern financial modelling.
 
-## Topics Covered
-- Mathematics (Analysis, Measure Theory, Linear Algebra)
-- Probability and Statistics
-- Programming (Python, R, MATLAB)
-- Data Analysis and Visualisation
-- Financial / Quantitative Methods
+---
 
-## Structure
-Each folder corresponds to a module or topic and includes:
-- Source code
-- Written solutions or reports
-- Supporting data where relevant
+## Module Focus: Advanced Computational Finance
 
-## Disclaimer
-This repository is for **portfolio and demonstration purposes only**.  
-All work is my own unless otherwise stated.
+The coursework in this repository covers topics including:
+
+- Derivative pricing using analytical and numerical methods
+- Monte Carlo simulation under risk-neutral dynamics
+- Binomial tree models for European and American options
+- Control variates and antithetic variates for variance reduction
+- Estimation of option sensitivities (Greeks)
+- Pricing of path-dependent and barrier options
+- Portfolio risk and sensitivity analysis
+
+---
+
+## Repository Structure
+
+Each folder corresponds to a specific module or topic and contains:
+
+- Jupyter notebooks with fully worked implementations
+- Code illustrating numerical and simulation-based methods
+- Outputs and visualisations supporting the analysis
+
+
